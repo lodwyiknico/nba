@@ -6,7 +6,19 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-
+.slick-prev{
+  left: 58px !important;
+  z-index: 2;
+}
+.slick-next {
+  right: 58px !important;
+}
+.slick-dots {
+  top: 465px;
+}
+.slick-dots li button:before {
+  color: #fff8f8 !important;
+}
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
