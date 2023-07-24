@@ -1,6 +1,6 @@
 # search_list_repo_github
 
-### How to Run
+### How to Run test
 
 #### Local Machine
 - Make sure you already installed [NodeJS](https://nodejs.org/) 
